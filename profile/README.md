@@ -18,11 +18,12 @@ These tools began as solutions to real problems in my own setup and are shared p
 
 ## Projects
 
-### Mugen Deej
+### [Mugen Deej](https://github.com/Mugen-Art-Lab/Mugen-Deej)
 
 A portable bilingual Windows client for deej-compatible USB audio controllers.
 
-The first public release is currently being prepared.
+**Public release available:**  
+[Download the latest version](https://github.com/Mugen-Art-Lab/Mugen-Deej/releases/latest) · [View documentation and source code](https://github.com/Mugen-Art-Lab/Mugen-Deej)
 
 ## Support
 
