@@ -46,6 +46,18 @@ If a tool saves you time or makes your workflow easier, you can support further 
 
 Payment availability may vary by country and card issuer.
 
+## Community
+
+Mugen Art Lab also has a small Discord community for project updates,
+development discussion, experiments, and casual conversation.
+
+The main language is Russian, but English is welcome.
+
+Discord is a casual community space. Bug reports and feature requests
+should still be submitted through GitHub Issues.
+
+[Join the Mugen Art Lab Discord](https://discord.gg/KBxyaBkRyu)
+
 ## Contact
 
 Bug reports and feature suggestions will be accepted through GitHub Issues in the corresponding project repositories.
