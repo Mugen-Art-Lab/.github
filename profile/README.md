@@ -28,6 +28,18 @@ Renders controller input directly inside OBS Studio without a browser source, we
 
 [Download the latest version](https://github.com/Mugen-Art-Lab/Mugen-Gamepad-Overlay/releases/latest) · [View documentation and source code](https://github.com/Mugen-Art-Lab/Mugen-Gamepad-Overlay)
 
+### [Mugen Heartbeat](https://github.com/Mugen-Art-Lab/Mugen-Heartbeat)
+
+A native local heart-rate source for OBS Studio on Windows over Bluetooth Low Energy.
+
+Connects directly to compatible BLE heart-rate devices and brings live BPM into OBS without an account, cloud service, browser source, or subscription. Includes plain text mode, built-in skins, configurable heart-rate reactions, and automatic reconnect.
+
+**No account. No cloud. No subscription. Just your heartbeat.**
+
+Public release available:
+
+[Download the latest version](https://github.com/Mugen-Art-Lab/Mugen-Heartbeat/releases/latest) · [View documentation and source code](https://github.com/Mugen-Art-Lab/Mugen-Heartbeat)
+
 ### [Mugen Deej](https://github.com/Mugen-Art-Lab/Mugen-Deej)
 
 A portable bilingual Windows client for deej-compatible USB audio controllers.
