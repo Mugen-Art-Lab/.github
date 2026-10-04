@@ -68,7 +68,7 @@ The main language is Russian, but English is welcome.
 Discord is a casual community space. Bug reports and feature requests
 should still be submitted through GitHub Issues.
 
-[Join the Mugen Art Lab Discord](https://discord.gg/KBxyaBkRyu)
+[Join the Mugen Art Lab Discord](https://discord.gg/a4KEU3tTm8)
 
 ## Contact
 
